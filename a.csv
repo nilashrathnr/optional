@@ -1,0 +1,7 @@
+Company,Shares,Bitcoins,Transactions,Date,Transaction Hash,Time
+a,48,1,"a -> b: 10 shares | Hash: 9e4999299d3f055e4c4aeebcbc95089582daac46e8af64e7877f214aff47241e | Date: 2024-07-02 16:08:08
+a -> b: 1 shares | Hash: 50a2f733adef388cf57d09913d28c56f8b06a90b92761a71cd25fc2e8dcb9c40 | Date: 2024-07-02 16:16:01
+a -> b: 2 shares | Hash: 5f01acc2ce950280bb8db5da03a82c8024a23fe5765cfa1a4d5403994b289324 | Date: 2024-07-02 16:17:54
+",2024-07-02 16:07:48,,
+a,38,1,,2024-07-02,f6aaf6535d62705e9620f99063d3ecce602e2b8b4027ac9a5c305bcc79f27942,16:23:16
+a,48,1,,2024-07-02,49e9815c1cfe1b1aff937eec3bbbdb7015ea5ae4327964278dcb2bfdfe902f10,16:23:27
